@@ -9,7 +9,7 @@ use Illuminate\Support\Facades\Notification;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Notifications\ChannelManager;
 
-class SmartSMSChannelServiceProvider extends ServiceProvider
+class SmartSMSServiceProvider extends ServiceProvider
 {
     /**
      * Register the service provider.

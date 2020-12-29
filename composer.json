@@ -30,6 +30,9 @@
             "Illuminate\\Tests\\Notifications\\": "tests/"
         }
     },
+	"scripts": {
+        "test": "vendor/bin/phpunit"
+    },
     "config": {
         "sort-packages": true
     },
